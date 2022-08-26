@@ -2,6 +2,8 @@
 
 This project provides an example for DynamoDB Toolbox issue [#261](https://github.com/jeremydaly/dynamodb-toolbox/issues/261).
 
+This project is derived from the Goldstack [DynamoDB Template](https://goldstack.party/templates/dynamodb).
+
 ## Steps to reproduce issue
 
 - Clone project
