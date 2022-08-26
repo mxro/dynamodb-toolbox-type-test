@@ -1,0 +1,15 @@
+{
+  "projectName": "dynamodb-test",
+  "packages": [
+    {
+      "packageName": "dynamodb",
+      "templateReference": {
+        "templateName": "dynamodb"
+      }
+    }
+  ],
+  "rootTemplateReference": {
+    "templateName": "yarn-pnp-monorepo"
+  },
+  "createdAt": "2022-08-26T19:32:06.896Z"
+}
