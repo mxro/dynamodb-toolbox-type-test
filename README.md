@@ -12,3 +12,4 @@ This project is derived from the Goldstack [DynamoDB Template](https://goldstack
 - Open in VSCode and navigate to file `packages\dynamodb\src\table.spec.ts`
 - Choose to use TypeScript version configured in workspace
 - Hover over `{ Item: user } ` in line 68 of the file
+- It shows up as `any` rather than a derived type
